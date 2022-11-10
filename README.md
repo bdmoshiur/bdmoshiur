@@ -22,9 +22,9 @@
 - 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="ManiruzzamanAkash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManiruzzamanAkash&label=Profile%20views&color=0e75b6&style=flat" alt="bdmoshiur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ManiruzzamanAkash" alt="ManiruzzamanAkash" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bdmoshiur" alt="bdmoshiur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ManiruzzamanAk" target="blank"><img src="https://img.shields.io/twitter/follow/ManiruzzamanAk?logo=twitter&style=for-the-badge" alt="ManiruzzamanAk" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
