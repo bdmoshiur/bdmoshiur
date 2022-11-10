@@ -38,16 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManiruzzamanAkash&theme=radical" alt="ManiruzzamanAkash" /></p>
 
-
-### 📺 Find Me in YouTube
-
-<!-- YOUTUBE:START -->
-- [#09 Redux Asyncthunk - API call in redux   Get and Post API call - Redux Basic to Advanced Tutorial](https://www.youtube.com/watch?v=70s4HiS-chg)
-- [Web Development Full-Stack Course Project Demo Part 2  - Product Part Full  Live Demo](https://www.youtube.com/watch?v=39HqNI3S9d4)
-- [Web Development Full-stack Course Final Project Demo - Multivendor Ecommerce Demo](https://www.youtube.com/watch?v=0xpGtR62XtQ)
-- [Web Development Full Stack Complete Course Bangla - PHP, Laravel, React,  Next JS, Tailwind CSS](https://www.youtube.com/watch?v=Z8_U4YomqxU)
-- [#10 Redux Complete Project Bangla Video Tutorial -  Complete Task management application CRUD](https://www.youtube.com/watch?v=Rqbk2YlxN2c)
-<!-- YOUTUBE:END -->
 <br />
 
 <h3 align="left">Connect with me:</h3>
