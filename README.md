@@ -17,7 +17,7 @@
 
 - 📫  &nbsp;Urgent Contact **+8801749302454** [Not Preferrable in Normal Case]
 
-- ⚡  &nbsp;Fun fact **I love to travel....:P**
+- ⚡  &nbsp;Fun fact **I love to travel....**
 
 - 🔥 &nbsp;My Greatest Power - **I can learn stuffs very quickly & implement on demand !**
 
