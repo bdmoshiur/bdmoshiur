@@ -3,7 +3,7 @@
 <h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, Wordpress, Bootstrap, Tailwind CSS and more...</h5>
 
 
-- 🔭  &nbsp; I’m currently working at **[MS ElectroHome](https://www.mselectrohome.com/).**
+- 🔭  &nbsp; I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/).**
 
 - ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Wordpress**, **Node JS** and **Tailwind CSS**
 
