@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋 I'm Moshiur Rahman</h1>
+<h4 align="center">🚀 Software Engineer | PHP • Laravel • React • DevOps Enthusiast</h4>
 
-<h5 align="center">A passionate web/app developer who writes stuff with PHP, Laravel, React, Wordpress, Bootstrap, Tailwind CSS and more...</h5>
-
+<p align="center">
+A passionate and detail-oriented Software Engineer who loves building efficient, scalable, and user-centric web & app solutions.<br>
+I specialize in backend development using modern frameworks and tools like <strong>PHP, Laravel, React, Tailwind CSS, and Docker</strong>.
+</p>
 
 - 🔭  &nbsp; I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/).**
 
