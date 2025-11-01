@@ -8,7 +8,7 @@ I specialize in backend development using modern frameworks and tools like <stro
 
 - 🔭  &nbsp; I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/).**
 
-- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Wordpress**, **Node JS** and **Tailwind CSS**
+- ✎ &nbsp; I’m currently working with  **PHP**, **Laravel**, **Javascript**, **React**, **Redux**, **Wordpress** and **Tailwind CSS**
 
 - ⭆  &nbsp; I’m currently learning **Docker**, **DevOps**, **Nest JS**
 
